@@ -1,0 +1,26 @@
+#profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 4px solid #ebeff4;
+  translate: 0px 50%;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+#banner-container {
+  width: 100%;
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  text-align: center;
+  color: rgb(3, 0, 85);
+  margin-bottom: 70px;
+}
+#box {
+  background-color: #ebeff4;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
